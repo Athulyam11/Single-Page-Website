@@ -1,4 +1,4 @@
-🌐 Personal Portfolio Website
+Personal Portfolio Website
 
 A clean, responsive single-page portfolio website built using HTML, CSS, and JavaScript.
 
